@@ -189,7 +189,7 @@ function loadHtml5LightBox(jsFolder) {
                 enabletouchswipe: true,
                 mobileresizeevent: false,
                 swipedistance: 0,
-                bodynoscroll: false,
+                bodynoscroll: true,
                 useabsolutepos: false,
                 useabsoluteposonmobile: false,
                 supportesckey: true,
